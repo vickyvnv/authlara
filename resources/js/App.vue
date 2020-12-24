@@ -20,7 +20,7 @@
                             <a href="#" class="" @click="logout()">Logout</a>
                         </li>
                         <li>
-                            <a href="https://www.google.com" target="_blank" class="github"><i class="fa fa-github"></i></a>
+                            <a href="#" target="_blank" class="github"><i class="fa fa-github"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -32,7 +32,7 @@
         <footer class="page-footer">
             <div class="footer-copyright">
                 <div class="container">
-                    <span>&copy; 2018</span>  <a href="https://artixun.com" target="_blank" style="color:white;text-decoration:none">Artixun Softwares.</a>
+                    <span>&copy; 2018</span>  <a href="#" target="_blank" style="color:white;text-decoration:none">RomilStage.</a>
                 </div>
             </div>
         </footer>

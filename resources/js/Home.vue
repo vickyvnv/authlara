@@ -1,3 +1,3 @@
 <template>
-    <h4>Laravel 7.9 Vue SPA Authentication</h4>
+    <h4>Vue Laravel Practice</h4>
 </template>
